@@ -43,7 +43,8 @@ module.exports = {
         "10px" : "10px"
       },
       fontFamily: {
-        "inter" : [ 'Inter', 'sans-serif']
+        "inter" : [ 'Inter', 'sans-serif'],
+        "chirp" : [ 'chirp' , 'sans-serif']
       },
       boxShadow: {
         "box" : "0px 8px 16px 0px rgba(0, 0, 0, 0.25)"
